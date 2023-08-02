@@ -2,8 +2,9 @@
 
 To get started with the backend server, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/movie-database-backend.git
+Clone the repository: git clone https://github.com/SaiAditya-ctrl/Lendbuzz-Backend.git
 Navigate to the project folder: cd Lendbuzz-backend
+
 Install the dependencies: npm install
 Start the server: npm start
 The server will start running on port 6010, and you should see a message indicating that the server is running 
@@ -35,6 +36,7 @@ The backend uses the following dependencies:
 Express.js
 Body-parser
 Cors
+
 
 
 
